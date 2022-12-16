@@ -38,34 +38,34 @@ header {
 
 .shares, .nav {
     margin-bottom: 10px;
-  }
+}
   
-  .shares {
+.shares {
     color: #e9e9e9;
     font-size: 20px;
-  }
+}
   
-  .nav {
+.nav {
     color: #787878;
     font-size: 20px;
-  }
+}
   
-  .username {
+.username {
     color: #298cc3;
     font-size: 20px;
     margin-top: 15px;
-  }
+}
   
-  .title-info {
+.title-info {
     color: #ffffff;
     font-size: 30px;
     margin-bottom: -15px
-  }
+}
 
-  h1 {
+h1 {
     font-family: 'Merriweather', serif;
     font-size: 45px;
-  }
+}
 
 /* THUMBNAILS */
 
@@ -73,7 +73,7 @@ h2 {
   margin: 45px 0px 15px 45px;
   font-size: 40px;
   color: #4e4e4e;
-  }
+}
 
 .thumbnails {
   display: flex;
@@ -115,14 +115,14 @@ h3 {
     margin: 25px 15px 15px 15px;
     color: #616161;
     font-size: 30px
-  }
+}
   
-  .date {
+.date {
     margin-top: -15px;
     margin-left: 15px;
     color: #99999b;
     font-size: 20px
-  }
+}
 
 p {
   margin-bottom: 0;
@@ -146,15 +146,15 @@ h5 {
     font-size: 22px;
     overflow-wrap: break-word;
     padding: 10px;
-  }
+}
   
-  .attachments {
+.attachments {
     color: #626262;
     margin: 10px 0px 0px 15px;
-  }
+}
   
-  .attachments-number {
+.attachments-number {
     margin: 5px 0px 25px 15px;
     color: #41bcfc;
     font-size: 40px;
-  }
+}
